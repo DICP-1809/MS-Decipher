@@ -1,7 +1,7 @@
 # MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides 
 
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/DICP-1809/MS-Decipher/releases/)
-[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/DICP-1809/MS-Decipher/releases/tag/v1.0.0)
+[![Github all releases](https://img.shields.io/github/downloads/DICP-1809/MS-Decipher/total.svg)](https://github.com/DICP-1809/MS-Decipher/releases/)
+[![GitHub version](https://img.shields.io/github/v/release/DICP-1809/MS-Decipher.svg)](https://github.com/DICP-1809/MS-Decipher/releases/tag/v1.0.0)
 
 MS-Decipher is a user-friendly proteome database search software, with good performance comparing to traditional and latest database search tools. It supports two search modes: peptide and O-glycopeptide. Specially, the [O-Search](https://pubs.acs.org/doi/10.1021/acs.analchem.8b04184) strategy, which was developed by us before, is utilized to proceed the O-glycopeptide search. MS-Decipher also provides useful tools for the visualization of PSMs in the result and the generation of the scorer files.
 
