@@ -19,8 +19,6 @@ Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file
 
 Environment:
   <br>
-* 64-bit operating system.
-  <br>
 * Java Runtime Environment or Java Development Kit with 11 or higher, which could be downloaded [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
 ## Basic Usage
