@@ -61,4 +61,4 @@ Raw result file in the format of .dat, .csv(from [Mascot](https://www.matrixscie
   <br>
 
 ## Config the Path of Percolator
-MS-Decipher adopts two ways of controlling false discovery rate (FDR): rank of PSMs based on scores, and employment of Percolator. [Percolator](https://github.com/percolator/percolator) uses a semi-supervised machine learning to discriminate correct from incorrect peptide-spectrum matches, and calculates accurate statistics such as q-value and posterior error probabilities. The releases of Percolator could be found [here](https://github.com/percolator/percolator/wiki/Download-and-Install).
+MS-Decipher adopts two ways of estimating false discovery rate (FDR): rank of PSMs based on scores, and employment of Percolator. [Percolator](https://github.com/percolator/percolator) uses a semi-supervised machine learning to discriminate correct from incorrect peptide-spectrum matches, and calculates accurate statistics such as q-value and posterior error probabilities. The releases of Percolator could be found [here](https://github.com/percolator/percolator/wiki/Download-and-Install).
