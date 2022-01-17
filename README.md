@@ -7,6 +7,9 @@ MS-Decipher is a user-friendly proteome database search software, with good perf
 
 MS-Decipher is written in the cross-platform Java programming language, with a GUI written in JavaFX. It has been packaged as an application, and put in a folder with other necessary configuration files and a java runtime environment (jre 11). Instructions on software installation and operation, common problems and other issues could be found in the documentations. 
 
+## Cite
+https://doi.org/10.1093/bioinformatics/btac014
+
 ## Download MS-Decipher
 It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired.
 
