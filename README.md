@@ -14,7 +14,7 @@ Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Minglia
 It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired. The user guide is also included.
 
 ## Other software
-For other software developed by the Mingliang Ye's Lab, please the https://github.com/DICP-1809.
+For other software developed by the Mingliang Ye's Lab, please see https://github.com/DICP-1809.
 
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
