@@ -1,4 +1,4 @@
-# MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides 
+# MS-Decipher: A user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides 
 
 [![Github all releases](https://img.shields.io/github/downloads/DICP-1809/MS-Decipher/total.svg)](https://github.com/DICP-1809/MS-Decipher/releases/)
 [![GitHub version](https://img.shields.io/github/v/release/DICP-1809/MS-Decipher.svg)](https://github.com/DICP-1809/MS-Decipher/releases/tag/v1.0.0)
@@ -8,10 +8,13 @@ MS-Decipher is a user-friendly proteome database search software, with good perf
 MS-Decipher is written in the cross-platform Java programming language, with a GUI written in JavaFX. It has been packaged as an application, and put in a folder with other necessary configuration files and a java runtime environment (jre 11). Instructions on software installation and operation, common problems and other issues could be found in the documentations. 
 
 ## Cite
-https://doi.org/10.1093/bioinformatics/btac014
+Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Mingliang Ye, MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides, Bioinformatics, 2022;, btac014, https://doi.org/10.1093/bioinformatics/btac014
 
 ## Download MS-Decipher
-It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired.
+It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired. The user guide is also included.
+
+## Other software
+For other software developed by the Mingliang Ye's Lab, please the https://github.com/DICP-1809.
 
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
