@@ -19,6 +19,9 @@ It is recommended to use MS-Decipher of the latest version, which could be downl
 ## Other software
 For other software developed by the Mingliang Ye's Lab, please see https://github.com/DICP-1809.
 
+## Apply License for MS-Decipher
+A license code is needed for the first time running MS-Decipher. User can fill in the chart, copy the information and sent it to [glyco_decipher@163.com](glyco_decipher@163.com) to apply for license.
+
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
 
