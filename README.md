@@ -27,9 +27,7 @@ A license code is needed for the first time running MS-Decipher. User can fill i
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
 
-![image](https://user-images.githubusercontent.com/83257455/116176810-5bd1f300-a745-11eb-9ab8-c4d89967bf58.png)
-
-![image](https://user-images.githubusercontent.com/84326485/160044776-9589b2cf-1bee-4cdd-bd62-202f57317060.png)
+![image](https://user-images.githubusercontent.com/84326485/160044832-ff64307a-8977-4bb4-9b3d-6aa3506c9829.png)
 
 ## System Requirements
 
