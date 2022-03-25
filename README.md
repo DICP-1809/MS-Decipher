@@ -21,6 +21,7 @@ For other software developed by the Mingliang Ye's Lab, please see https://githu
 
 ## Apply License for MS-Decipher
 A license code is needed for the first time running MS-Decipher. User can fill in the chart, copy the information and sent it to [glyco_decipher@163.com](glyco_decipher@163.com) to apply for license.
+![image](https://user-images.githubusercontent.com/84326485/160044627-a955b0c6-141c-43df-84d1-ef24ae8e1e12.png)
 
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
