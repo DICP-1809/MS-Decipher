@@ -12,13 +12,16 @@ Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Minglia
 
 ## Contact Us
 ### Group Leader: 
-Mingliang Ye/n
+Mingliang Ye
+
 email: mingliang@dicp.ac.cn
 ### Developer: 
-Jiawei Mao/n
+Jiawei Mao
+
 email: Mchem0077@163.com
 
-He Zhu/n
+He Zhu
+
 email: hzhu@dicp.ac.cn
 
 ## Exception Handling
