@@ -11,11 +11,10 @@ MS-Decipher is written in the cross-platform Java programming language, with a G
 Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Mingliang Ye, MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides, Bioinformatics, Volume 38, Issue 7, 1 April 2022, Pages 1911–1919, https://doi.org/10.1093/bioinformatics/btac014
 
 ## Contact Us
-# Group Leader: 
+### Group Leader: 
 Mingliang Ye
 email: mingliang@dicp.ac.cn
-
-# Developer: 
+### Developer: 
 Jiawei Mao
 email: Mchem0077@163.com
 
