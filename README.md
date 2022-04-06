@@ -10,6 +10,18 @@ MS-Decipher is written in the cross-platform Java programming language, with a G
 ## Cite
 Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Mingliang Ye, MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides, Bioinformatics, Volume 38, Issue 7, 1 April 2022, Pages 1911–1919, https://doi.org/10.1093/bioinformatics/btac014
 
+## Contact Us
+# Group Leader: 
+Mingliang Ye
+email: mingliang@dicp.ac.cn
+
+# Developer: 
+Jiawei Mao
+email: Mchem0077@163.com
+
+He Zhu
+hzhu@dicp.ac.cn
+
 ## Exception Handling
 Log files, including information and errors, will be output when the software is running. If errors are encountered, users can check the error.log or ms_decipher.log file in the ‘logs’ folder to search for reasons, submit issues on https://github.com/DICP-1809/MS-Decipher or send email to glyco_decipher@163.com.
 
