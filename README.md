@@ -12,14 +12,14 @@ Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Minglia
 
 ## Contact Us
 ### Group Leader: 
-Mingliang Ye
+Mingliang Ye/n
 email: mingliang@dicp.ac.cn
 ### Developer: 
-Jiawei Mao
+Jiawei Mao/n
 email: Mchem0077@163.com
 
-He Zhu
-hzhu@dicp.ac.cn
+He Zhu/n
+email: hzhu@dicp.ac.cn
 
 ## Exception Handling
 Log files, including information and errors, will be output when the software is running. If errors are encountered, users can check the error.log or ms_decipher.log file in the ‘logs’ folder to search for reasons, submit issues on https://github.com/DICP-1809/MS-Decipher or send email to glyco_decipher@163.com.
