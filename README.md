@@ -7,6 +7,14 @@ MS-Decipher is a user-friendly proteome database search software, with good perf
 
 MS-Decipher is written in the cross-platform Java programming language, with a GUI written in JavaFX. It has been packaged as an application, and put in a folder with other necessary configuration files and a java runtime environment (jre 11). Instructions on software installation and operation, common problems and other issues could be found in the documentations. 
 
+## Download MS-Decipher
+It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired. The user guide is also included.
+
+## Apply License for MS-Decipher
+A license code is needed for the first time running MS-Decipher. User can fill in the chart, copy the information and sent it to glyco_decipher@163.com to apply for license.
+
+![image](https://user-images.githubusercontent.com/84326485/160044627-a955b0c6-141c-43df-84d1-ef24ae8e1e12.png)         ![image](https://user-images.githubusercontent.com/84326485/160045091-12582d7c-8961-49d3-b145-517b555fb169.png)
+
 ## Cite
 Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Mingliang Ye, MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides, Bioinformatics, Volume 38, Issue 7, 1 April 2022, Pages 1911–1919, https://doi.org/10.1093/bioinformatics/btac014
 
@@ -27,16 +35,8 @@ email: hzhu@dicp.ac.cn
 ## Exception Handling
 Log files, including information and errors, will be output when the software is running. If errors are encountered, users can check the error.log or ms_decipher.log file in the ‘logs’ folder to search for reasons, submit issues on https://github.com/DICP-1809/MS-Decipher or send email to glyco_decipher@163.com.
 
-## Download MS-Decipher
-It is recommended to use MS-Decipher of the latest version, which could be downloaded [here](https://github.com/DICP-1809/MS-Decipher/releases), where previous version can also be acquired. The user guide is also included.
-
 ## Other software
 For other software developed by the Mingliang Ye's Lab, please see https://github.com/DICP-1809.
-
-## Apply License for MS-Decipher
-A license code is needed for the first time running MS-Decipher. User can fill in the chart, copy the information and sent it to glyco_decipher@163.com to apply for license.
-
-![image](https://user-images.githubusercontent.com/84326485/160044627-a955b0c6-141c-43df-84d1-ef24ae8e1e12.png)         ![image](https://user-images.githubusercontent.com/84326485/160045091-12582d7c-8961-49d3-b145-517b555fb169.png)
 
 ## Run MS-Decipher
 Users can run MS-Decipher on windows system by clicking the MS-Decipher.exe file, which can be obtained by unzipping the compressed .rar file. A graphical user interface will be shown for latter operation.
