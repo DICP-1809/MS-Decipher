@@ -83,6 +83,10 @@ MS-Decipher supports several different formats of files in different steps:
 MS data file in the format of .mzML, .mzXML, .mgf, .pkl
   <br>
 The .mzML and .mgf file can be generated from [Proteome Discoverer](https://www.thermofisher.com/order/catalog/product/OPTON-30945#/OPTON-30945) or [MSConvert](http://proteowizard.sourceforge.net/tools.shtml)
+For the settings in MSConvert, it is recommended to choose:
+"32-bit" for "Binary encoding precis", "vendor msLevel=1-" and "cwt snr=0.1 peakSpace=0.1 msLevel=1-" for "peakPicking".
+![image](https://user-images.githubusercontent.com/84326485/165037322-13912d60-c24c-442f-9c66-68b42719d85d.png)
+
 * Result Validation: 
   <br>
 Raw result file in the format of .dat, .csv(from [Mascot](https://www.matrixscience.com/)), pepXML, .xlsx(from MS-Decipher) and .mzIdentML
