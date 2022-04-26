@@ -75,6 +75,10 @@ Since MS-Decipher adopts the rank score algorithm, which utilizes special scorer
   <br>
 The task progress is displayed in the task progress view at the bottom of each panel in real time (except for the parameter editor).
 
+* Scoring Protocol
+  <br>
+  It’s important to note that the ‘Protocol’ option is used to select the scoring file for the Rank Score algorithm. For detailed information, please see the articles related to RankScore algorithm: (Kim et al., 2008; Kim and Pevzner, 2014). In short, the scoring step is proceeded based on the scoring file. 
+
 ## Supported File Formats
 MS-Decipher supports several different formats of files in different steps:
 <br>
