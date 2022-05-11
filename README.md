@@ -89,8 +89,10 @@ MS data file in the format of .mzML, .mzXML, .mgf, .pkl
 The .mzML and .mgf file can be generated from [Proteome Discoverer](https://www.thermofisher.com/order/catalog/product/OPTON-30945#/OPTON-30945) or [MSConvert](http://proteowizard.sourceforge.net/tools.shtml).
 
 For the settings in MSConvert, it is recommended to choose:
-"32-bit" for "Binary encoding precis", "vendor msLevel=1-" and "cwt snr=0.1 peakSpace=0.1 msLevel=1-" for "peakPicking".
-![image](https://user-images.githubusercontent.com/84326485/165037322-13912d60-c24c-442f-9c66-68b42719d85d.png)
+"32-bit" for "Binary encoding precis", "vendor msLevel=1-" and  for "peakPicking", "HCD" for activation and the default "titleMaker" option.
+The sort of these settings are IMPORTANT!!
+![MSConvertGUI (64-bit)](https://user-images.githubusercontent.com/84326485/167779186-8eccd4b1-fe5e-43b6-adba-d27a6982b782.png)
+
 
 * Result Validation: 
   <br>
