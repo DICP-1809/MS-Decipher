@@ -18,6 +18,8 @@ A license code is needed for the first time running MS-Decipher. User can fill i
 ## Cite
 Jiawei Mao, He Zhu, Luyao Liu, Zheng Fang, Mingming Dong, Hongqiang Qin, Mingliang Ye, MS-Decipher: a user-friendly proteome database search software with an emphasis on deciphering the spectra of O-linked glycopeptides, Bioinformatics, Volume 38, Issue 7, 1 April 2022, Pages 1911–1919, https://doi.org/10.1093/bioinformatics/btac014
 
+Zhu, H.; Liu, L.; Fang, Z.; Qin, H.; Dong, M.; Ye, M. O-Search-Pattern: A Searching Tool Utilizing the Y-Ion Pattern to Enhance O-Glycopeptide Identification for the Analysis of O-GalNAc Glycoproteome. Anal. Chem. 2023. https://doi.org/10.1021/acs.analchem.3c00012. 
+
 ## Contact Us
 ### Group Leader: 
 Mingliang Ye
